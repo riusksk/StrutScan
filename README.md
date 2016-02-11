@@ -3,7 +3,7 @@
 
 
 ##使用方法
-        Usage:   perl     StructScan.pl 
+        Usage:   perl StructScan.pl 
             -g     Google 搜索语句 
             -p     搜索结果的起始页数,默认从第1页开始
             -u     指定网址
